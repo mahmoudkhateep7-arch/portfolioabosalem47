@@ -32,7 +32,7 @@ export default function Header() {
         </div>
       </div>
       {/* text and img */}
-      <div className={`max-md:flex-col max-md:pt-34 gap-10  items-center px-8 py-6 w-full  flex-1 bg-amber-200 flex max-w-275 mx-auto h-full`}>
+      <div className={`max-md:flex-col max-md:pt-34 gap-10  items-center px-8 py-6 w-full  flex-1 bg-ambedr-200 flex max-w-275 mx-auto h-full`}>
 
         <div className={`flex-[1.5] max-md:w-full bg-amberc-400 max-md:flex-6  `}>
           <p className={`text-secondary font-bold text-xl max-sm:text-sm `}>hi my name is</p>
