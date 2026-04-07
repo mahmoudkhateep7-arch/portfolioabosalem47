@@ -1,0 +1,20 @@
+@import 'tailwindcss';
+
+@theme {
+  /* Breakpoints */
+  --breakpoint-md: 800px;
+
+  /* Colors */
+  --color-primary: #033b4a;
+  --color-secondary: #20c997;
+  --color-gray-custom: #4a4a4d;
+  --color-bg-primary: #ecf0f3;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+section {
+  scroll-margin: 80px;
+}
